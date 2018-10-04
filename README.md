@@ -5,11 +5,11 @@ The purpose of the project is to validate a JSON document received as input usin
 To interpret the source codes in question it is necessary:
 
 Prolog:
-- Download Prolog from the official website: http://www.swi-prolog.org
+- Download [Prolog](http://www.swi-prolog.org)
 - Interpret the json-parsing.pl file
 
 Lisp:
-- Download Lisp: http://www.lispworks.com
+- Download [Prolog](http://www.lispworks.com)
 - Interpret the json-parsing.lisp file
 
 For more information read the zip file.

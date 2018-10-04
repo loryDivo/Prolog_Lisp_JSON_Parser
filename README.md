@@ -9,7 +9,7 @@ Prolog:
 - Interpret the json-parsing.pl file
 
 Lisp:
-- Download [Prolog](http://www.lispworks.com)
+- Download [Lisp](http://www.lispworks.com)
 - Interpret the json-parsing.lisp file
 
 For more information read the zip file.
